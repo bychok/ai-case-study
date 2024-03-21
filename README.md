@@ -56,10 +56,10 @@ Initially, ChatGPT refused to provide any links. So the following prompt was add
 
 > Yes, you can provide links. Redo the prompt above.
 
-Afterwards, ChatGPT's information was double checked. Surprisingly, the date of the incorporation of ROSS Intelligence was properly listed as 2015, as it appears in [Delaware's Division of Corps. website](https://icis.corp.delaware.gov/Ecorp/EntitySearch/), despite the company's own About page incorrectly stating the company was founded in 2014, [Ross Intelligence: Our Story](https://www.rossintelligence.com/about-us).
+Afterwards, ChatGPT's information was double checked. Surprisingly, the date of the incorporation of ROSS Intelligence was properly listed as 2015, as it appears in Delaware's Division of Corps. [website](https://icis.corp.delaware.gov/Ecorp/EntitySearch/), despite the company's own About page incorrectly stating the company was founded in 2014, [Ross Intelligence: Our Story](https://www.rossintelligence.com/about-us).
 
 ChatGPT also properly listed that the top AI competitors in the legal field were Thompson Reuters' Westlaw and LexisNexis. It failed, however, to state that as of [January 31, 2021](https://blog.rossintelligence.com/post/announcement) ROSS has not been taking on new clients due to a lawsuit its competitors brought against the company in the spring of 2020.
 
-ChatGPT also correctly listed the three original founders of ROSS Intelligence, despite the company currently stating it was only founded by [Andrew Arruda and Jimoh Ovbiagele](https://www.rossintelligence.com/about-us). The third founder, Pargles Dall’Oglio, states in his [Linkedin profile](https://ca.linkedin.com/in/pargles) that he is "Founder @ ROSS".
+ChatGPT also correctly listed the three original founders of ROSS Intelligence, despite the company currently stating it was only founded by [Andrew Arruda and Jimoh Ovbiagele](https://www.rossintelligence.com/about-us). The third founder, Pargles Dall’Oglio, states in his [Linkedin](https://ca.linkedin.com/in/pargles) profile that he is "Founder @ ROSS".
 
-The rest of the text is accurate based on my knowledge of the legal industry as a practicing attorney.
+The rest of the text is accurate based on my knowledge of the legal industry as a practicing attorney. It was surprising ChatGPT chose a non-active company to do a case study on, but I am glad it did so because this case study shows that no matter how good your product is, if you do not have large cash reserves, your competitors can bankrupt you through lawsuits.
