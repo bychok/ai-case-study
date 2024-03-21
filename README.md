@@ -1,13 +1,11 @@
 ![alt text](AI_Law_Banner.jpg)
 
-# Module 1: Case Study of AI in Law
-
-## ROSS Intelligence: Pioneering AI in Legal Research
+# Module 1: Case Study of ROSS Intelligence - Pioneering AI in Legal Research
 
 ## Overview and Origin
 
-- **Name of company**: ROSS Intelligence.
-- **When was the company incorporated?**: 2015.
+- **Name of company**: ROSS Intelligence, Inc.
+- **When was the company incorporated?**: March 12, 2015.
 - **Who are the founders of the company?**: Andrew Arruda, Jimoh Ovbiagele, and Pargles Dall’Oglio.
 - **How did the idea for the company (or project) come about?**: The founders sought to leverage AI to revolutionize the cumbersome and time-intensive process of legal research.
 - **How is the company funded? How much funding have they received?**: ROSS Intelligence has secured funding through various rounds, specifics of which can be tracked on [Crunchbase](https://www.crunchbase.com/organization/ross-intelligence).
@@ -41,9 +39,18 @@ To further solidify its position, ROSS Intelligence could explore expanding its 
 
 **Notes**:
 
-- ChatGPT4 (April 2023 update) was used to generate this case study. The instructions for Module 1 were added to a word document and uploaded to ChatGPT; the following prompt was used:
-  > Based on the criteria found in the Requirements section of this document, draft a case study of a company of your choosing that is adding AI to the legal sphere. Make sure to format your response as outlined in Instructions Part 2: Conduct your Research Using the Case Study Template as a Guide of the provided document. Get straight to the point, the reader has many case studies to read.
+ChatGPT4 (April 2023 update) was used to generate this case study. The instructions for Module 1 were added to a word document and uploaded to ChatGPT; the following prompt was used:
+
+> Based on the criteria found in the Requirements section of this document, draft a case study of a company of your choosing that is adding AI to the legal sphere. Make sure to format your response as outlined in Instructions Part 2: Conduct your Research Using the Case Study Template as a Guide of the provided document. Get straight to the point, the reader has many case studies to read.
 
 Initially, ChatGPT refused to provide any links. So the following prompt was added:
 
 > Yes, you can provide links. Redo the prompt above.
+
+ChatGPT's information was double checked. Surprisingly, the date of the incorporation of ROSS Intelligence was properly listed as 2015, as listed in [Delaware's Division of Corps. website](https://icis.corp.delaware.gov/Ecorp/EntitySearch/), despite the company's own About page incorrectly stating the company was founded in 2014, [Ross Intelligence: Our Story](https://www.rossintelligence.com/about-us).
+
+ChatGPT also properly listed that the top AI competitors in the legal field were Thompson Reuters' Westlaw and LexisNexis.
+
+ChatGPT also correctly listed the three original founders of ROSS Intelligence, despite the company currently stating it was only founded by [Andrew Arruda and Jimoh Ovbiagele](https://www.rossintelligence.com/about-us). The third founder, Pargles Dall’Oglio, states in his [Linkedin profile](https://ca.linkedin.com/in/pargles) that he is "Founder @ ROSS".
+
+The rest of the text is accurate based on my knowledge of the legal industry as a practicing attorney.
