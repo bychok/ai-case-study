@@ -2,6 +2,14 @@
 
 # Module 1: Case Study of ROSS Intelligence - Pioneering AI in Legal Research
 
+## Contents
+
+- [Overview and Origin](https://github.com/bychok/ai-case-study?tab=readme-ov-file#overview-and-origin)
+- [Business Activities](https://github.com/bychok/ai-case-study?tab=readme-ov-file#business-activities)
+- [Landscape](https://github.com/bychok/ai-case-study?tab=readme-ov-file#landscape)
+- [Results](https://github.com/bychok/ai-case-study?tab=readme-ov-file#results)
+- [Recommendations](https://github.com/bychok/ai-case-study?tab=readme-ov-file#recommendations)
+
 ## Overview and Origin
 
 - **Name of company**: ROSS Intelligence, Inc.
@@ -37,7 +45,7 @@ To further solidify its position, ROSS Intelligence could explore expanding its 
 
 ---
 
-**Notes**:
+## Notes
 
 ChatGPT4 (April 2023 update) was used to generate this case study. The instructions for Module 1 were added to a word document and uploaded to ChatGPT; the following prompt was used:
 
