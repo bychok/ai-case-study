@@ -1,6 +1,6 @@
 ![alt text](AI_Law_Banner.jpg)
 
-# Module 1: Case Study of ROSS Intelligence - Pioneering AI in Legal Research
+# Module 1: Case Study of ROSS Intelligence, Inc.
 
 ## Contents
 
@@ -9,6 +9,7 @@
 - [Landscape](https://github.com/bychok/ai-case-study?tab=readme-ov-file#landscape)
 - [Results](https://github.com/bychok/ai-case-study?tab=readme-ov-file#results)
 - [Recommendations](https://github.com/bychok/ai-case-study?tab=readme-ov-file#recommendations)
+- [Notes](https://github.com/bychok/ai-case-study?tab=readme-ov-file#notes)
 
 ## Overview and Origin
 
@@ -29,7 +30,7 @@
 
 The legal tech field is at an inflection point, with AI-driven solutions transforming traditional practices. Over the last 5–10 years, trends have included automation of routine tasks, data analytics for predictive insights, and AI for legal research and case management.
 
-ROSS Intelligence is a leader in this evolving landscape, offering cutting-edge solutions for legal research. Their technology stands out for its ability to understand natural language queries, making legal research more intuitive and efficient.
+ROSS Intelligence was a leader in this evolving landscape, offering cutting-edge solutions for legal research. Their technology stands out for its ability to understand natural language queries, making legal research more intuitive and efficient.
 
 Competitors like [Thomson Reuters Westlaw](https://legal.thomsonreuters.com/en/products/westlaw) and [LexisNexis](https://www.lexisnexis.com/en-us/home.page) have also integrated AI into their services but often rely on more traditional search methodologies. This sets ROSS apart, highlighting its innovative approach to leveraging AI for legal research.
 
@@ -37,17 +38,17 @@ Competitors like [Thomson Reuters Westlaw](https://legal.thomsonreuters.com/en/p
 
 ROSS Intelligence has significantly impacted the legal research process, offering a faster, more accurate alternative to traditional methods. Metrics for success in this space include user adoption rates, customer satisfaction, and time savings, where ROSS has shown promising results.
 
-Compared to its competitors, ROSS's AI-driven approach has not only improved efficiency but also increased the accessibility of comprehensive legal research, establishing it as a notable innovator in legal tech.
+Compared to its competitors, ROSS's AI-driven approach has not only improved efficiency but also increased the accessibility of comprehensive legal research, establishing it as a notable innovator in legal tech. As a result, in the spring of 2020, Thomson Reuters and Westlaw brought a lawsuit against ROSS. Litigation is expensive, so the company had to stop taking on new clients as of [January 31, 2021](https://blog.rossintelligence.com/post/announcement).
 
 ## Recommendations
 
-To further solidify its position, ROSS Intelligence could explore expanding its AI capabilities to predictive analytics, offering predictions on case outcomes based on historical data. This would not only enhance its current offerings but also provide legal professionals with powerful tools for case preparation and strategy development.
+To further solidify its position, ROSS Intelligence could have explored expanding its AI capabilities to predictive analytics, offering predictions on case outcomes based on historical data. It could have created a generative AI to provide comprehensive insights into the decision-making patterns of judges — based not just on their written rulings, but also their rulings from the bench. This would not only enhance its current offerings but also provide legal professionals with powerful tools for case preparation and strategy development. They also need a large legal fund to protect themselves from their litigious competitors.
 
 ---
 
 ## Notes
 
-ChatGPT4 (April 2023 update) was used to generate this case study. The instructions for Module 1 were added to a word document and uploaded to ChatGPT; the following prompt was used:
+ChatGPT4 (April 2023 update) was used to generate this case study. The instructions for Module 1 were added to a word document and uploaded to ChatGPT. The following prompt was used:
 
 > Based on the criteria found in the Requirements section of this document, draft a case study of a company of your choosing that is adding AI to the legal sphere. Make sure to format your response as outlined in Instructions Part 2: Conduct your Research Using the Case Study Template as a Guide of the provided document. Get straight to the point, the reader has many case studies to read.
 
@@ -55,9 +56,9 @@ Initially, ChatGPT refused to provide any links. So the following prompt was add
 
 > Yes, you can provide links. Redo the prompt above.
 
-ChatGPT's information was double checked. Surprisingly, the date of the incorporation of ROSS Intelligence was properly listed as 2015, as listed in [Delaware's Division of Corps. website](https://icis.corp.delaware.gov/Ecorp/EntitySearch/), despite the company's own About page incorrectly stating the company was founded in 2014, [Ross Intelligence: Our Story](https://www.rossintelligence.com/about-us).
+Afterwards, ChatGPT's information was double checked. Surprisingly, the date of the incorporation of ROSS Intelligence was properly listed as 2015, as it appears in [Delaware's Division of Corps. website](https://icis.corp.delaware.gov/Ecorp/EntitySearch/), despite the company's own About page incorrectly stating the company was founded in 2014, [Ross Intelligence: Our Story](https://www.rossintelligence.com/about-us).
 
-ChatGPT also properly listed that the top AI competitors in the legal field were Thompson Reuters' Westlaw and LexisNexis.
+ChatGPT also properly listed that the top AI competitors in the legal field were Thompson Reuters' Westlaw and LexisNexis. It failed, however, to state that as of [January 31, 2021](https://blog.rossintelligence.com/post/announcement) ROSS has not been taking on new clients due to a lawsuit its competitors brought against the company in the spring of 2020.
 
 ChatGPT also correctly listed the three original founders of ROSS Intelligence, despite the company currently stating it was only founded by [Andrew Arruda and Jimoh Ovbiagele](https://www.rossintelligence.com/about-us). The third founder, Pargles Dall’Oglio, states in his [Linkedin profile](https://ca.linkedin.com/in/pargles) that he is "Founder @ ROSS".
 
